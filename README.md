@@ -1,0 +1,2 @@
+# MetalAnimationTest
+Metalを使ったアニメーションのテストアプリです。
